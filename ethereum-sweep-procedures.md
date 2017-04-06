@@ -1,8 +1,8 @@
 Ethereum Paper Wallet Sweep Procedures v1.0
 ===========================================
 
-The latest version of this document is available at https://github.com/rstms/paper-wallet-procedures/ethereum-sweep.md
-These procedures were updated 2017-04-16  For further information please contact the author via github.
+The latest version of this document is available at https://github.com/rstms/paper-wallet-procedures/blob/master/ethereum-sweep-procedures.md
+For further information please contact the author via github.
 
 Install Barcode To PC Server
 ----------------------------
