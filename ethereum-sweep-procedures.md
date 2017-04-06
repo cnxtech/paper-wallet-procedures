@@ -107,3 +107,5 @@ Sweep Operation Complete
 ------------------------
 Verify that a new account with your paper wallet address is now displayed with the correct value in Mist.
 Select the account with the address matching your paper wallet public address.  You can now use the password to initiate a spend transaction.
+
+Note: If you've just installed Mist, you may have to wait for the blockchain data to be downloaded before the correct value is shown for your account.  For immediate verification, you can use a blockchain explorer like https://etherchain.org
