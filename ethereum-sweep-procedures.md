@@ -17,13 +17,15 @@ On your phone, go to the browser and open https://barcodetopc.com, then use the 
 Install Ethereum Wallet on Desktop Windows System
 -------------------------------------------------
 ### Install the Ethereum Wallet Software from www.ethereum.org
-As of 2017-04-06, the latest version is:
+As of 2017-04-06, the latest version for a Windows 10 PC is:
 https://github.com/ethereum/mist/releases/download/v0.8.9/mist-installer-0-8-9.exe
+
 Install and run the program
 
 ### Use Default Install Directories:
  - Wallet Program: ```C:\Program Files\Mist```
  - Wallet Data: ```C:\Users\[USER_NAME]\AppData\Roaming\Ethereum```
+
 Once the program is started, add an account.  Record the password.
 
 ### Open the geth command line environment
