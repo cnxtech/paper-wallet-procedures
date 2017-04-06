@@ -83,7 +83,7 @@ type private.txt
 
 Verify that the contents of the file match the paper wallet private key.
 
-Generate a password for the swept key.  Record it – you will need it to send the value.
+Generate a password for the swept key account.  Record it – you will need it to use the account in Mist.
 
 Command:
 ```
